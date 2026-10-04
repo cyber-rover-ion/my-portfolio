@@ -16,3 +16,6 @@ The portfolio is intended to provide a compact view of current and completed pro
 ## Project Status
 
 The repository contains the portfolio website and its supporting assets. The README is intentionally lightweight so the project documentation stays easy to maintain.
+## Creator
+
+Made by **JebinTech**.
