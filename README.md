@@ -4,7 +4,7 @@ Personal portfolio website for presenting projects, experiments, technical inter
 
 ## Overview
 
-The portfolio acts as a central showcase for work across software development, AI, web projects, and interactive experiments.
+The portfolio acts as a central showcase for work across software development, AI, web projects, and interactive experiments. It is intended to give visitors a clear view of completed projects, current experiments, technical interests, and links to related work.
 
 ## Design Direction
 
@@ -27,19 +27,20 @@ The portfolio is intended to highlight:
 
 ## Project Structure
 
-The repository contains the portfolio website and its supporting assets. The README intentionally stays focused on the project's purpose rather than duplicating implementation details that may change frequently.
+The repository contains the portfolio website and its supporting assets. The README intentionally focuses on the purpose and presentation of the portfolio rather than duplicating implementation details that can change frequently.
 
 ## Development
 
-Run the project using the development workflow supported by the current source tree. Keep project-specific build and dependency instructions aligned with the implementation files.
+Run the project using the development workflow supported by the current source tree. Keep build, dependency, and deployment instructions aligned with the implementation files so the documentation remains accurate.
 
 ## Future Refinement
 
-- More polished project case studies
+- More detailed project case studies
 - Improved project filtering
 - Additional motion and transitions
 - Better mobile presentation
 - Performance and accessibility refinement
+- Clearer presentation of project status and technologies
 
 ## Creator
 
