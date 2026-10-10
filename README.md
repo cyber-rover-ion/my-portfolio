@@ -1,27 +1,28 @@
-# my-portfolio
+# Developer Portfolio
 
-A personal portfolio website for presenting software projects, experiments, technical interests, and related work.
+A personal portfolio website showcasing software projects, experiments, and technical work.
 
 ## Overview
 
-The portfolio provides a central place to showcase projects and experiments across software development, AI, web development, and interactive applications. It is designed to make individual projects easy to discover while keeping the presentation focused on the work itself.
+This repository contains a portfolio site that brings together projects across web development, AI experimentation, interactive applications, and related technical interests. The site is designed to help visitors discover the work and explore individual projects.
 
-## Focus
+## Highlights
 
-- Project showcase
-- Software and AI experiments
-- Interactive web projects
-- Technical interests
+- Project-focused presentation
 - Links to related work and repositories
+- Responsive page layout
+- Dark visual theme with glass-inspired interface elements
+- Motion and transition effects
+- Ongoing updates as projects evolve
 
-## Design
+## Project Status
 
-The portfolio uses a dark visual direction with glass-inspired interface elements, smooth transitions, responsive layouts, and a project-focused presentation.
+The portfolio is maintained as a work in progress. Project listings, visual design, and site content may change as new work is published.
 
-## Status
+## Local Preview
 
-The portfolio is an active personal project and may change as new projects are added and the presentation is refined.
+Open the repository's HTML entry point in a modern browser or use a local development server if required by the project's asset loading and configuration.
 
-## Creator
+## Maintainer
 
-Made by **JebinTech**.
+**JebinTech**
