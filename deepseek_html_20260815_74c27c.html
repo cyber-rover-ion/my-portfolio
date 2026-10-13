@@ -77,6 +77,41 @@
             text-decoration: none;
             color: inherit;
         }
+
+        .skip-link {
+            position: fixed;
+            top: 1rem;
+            left: 1rem;
+            z-index: 10000;
+            padding: 0.75rem 1rem;
+            border-radius: 0.5rem;
+            background: var(--black-cherry);
+            color: var(--text-light);
+            font-weight: 700;
+            transform: translateY(-180%);
+            transition: transform 0.2s ease;
+        }
+
+        .skip-link:focus {
+            transform: translateY(0);
+            outline: 3px solid var(--racing-red-light);
+            outline-offset: 3px;
+        }
+
+        :focus-visible {
+            outline: 3px solid var(--racing-red);
+            outline-offset: 3px;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            html { scroll-behavior: auto; }
+            *, *::before, *::after {
+                scroll-behavior: auto !important;
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
         ul {
             list-style: none;
         }
@@ -1275,6 +1310,7 @@
     </style>
 </head>
 <body>
+    <a class="skip-link" href="#home">Skip to main content</a>
 
     <!-- ============================================================
     NAVBAR
