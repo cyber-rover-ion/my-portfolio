@@ -26,3 +26,6 @@ Open the repository's HTML entry point in a modern browser or use a local develo
 ## Maintainer
 
 **JebinTech**
+
+- GitHub: [@cyber-rover-ion](https://github.com/cyber-rover-ion)
+- Instagram: [@constantine.hell](https://www.instagram.com/constantine.hell/)
