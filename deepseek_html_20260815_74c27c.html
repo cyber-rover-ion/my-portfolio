@@ -2271,7 +2271,7 @@
                         const offset = parseInt(getComputedStyle(document.documentElement).getPropertyValue(
                         '--nav-height')) || 72;
                         const top = target.getBoundingClientRect().top + window.pageYOffset - offset - 8;
-                        window.scrollTo({ top: top, behavior: 'smooth' });
+                        window.scrollTo({ top: top, behavior: prefersReducedMotion ? 'auto' : 'smooth' });
                     }
                 });
             });
